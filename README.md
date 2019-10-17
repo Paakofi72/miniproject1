@@ -17,3 +17,5 @@
 
 6. rm - a Linux command that stands for remove here. rm command is used to remove objects such as files, directories, symbolic links and so on from the file system like UNIX. To use, type "rm (file)".
 
+7. history - a Linux command that keeps a list of all the other commands that have been run from that terminal session, then allows you to replay or reuse those commands instead of retyping them. To use, type "history".
+
