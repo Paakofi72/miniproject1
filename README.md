@@ -28,3 +28,7 @@
 11. Using up and down arrow for history - this is a way to access previous commands typed in a terminal using the up and down arrow keys. To use, press the up arrow key after previously entering in commands to navigate previous commands.  To go back, press the down arrow key to return to newer commands you typed.
 
 References: Material from IT 340 as well as Google definitions (https://www.google.com/)
+
+**Image:**
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
