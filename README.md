@@ -19,3 +19,5 @@
 
 7. history - a Linux command that keeps a list of all the other commands that have been run from that terminal session, then allows you to replay or reuse those commands instead of retyping them. To use, type "history".
 
+8. Home directory and ~ - a home directory, also called a login directory, is the directory on Unix-like operating systems that serves as the repository for a user's personal files, directories and programs. The ~ symbol stands for a "tilde" to denote a user's home directory. Thus tilde slash (~/) is the beginning of a path to a file or directory below the user's home directory. ... Note: Quite often, the succeeding file or directory name is preceded by a period (".") which indicates that it is hidden (in Linux).
+
