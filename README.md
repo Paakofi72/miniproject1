@@ -21,3 +21,5 @@
 
 8. Home directory and ~ - a home directory, also called a login directory, is the directory on Unix-like operating systems that serves as the repository for a user's personal files, directories and programs. The ~ symbol stands for a "tilde" to denote a user's home directory. Thus tilde slash (~/) is the beginning of a path to a file or directory below the user's home directory. ... Note: Quite often, the succeeding file or directory name is preceded by a period (".") which indicates that it is hidden (in Linux).
 
+9. file paths in linux - A file path is the human-readable representation of a file or folder’s location on a computer system. Ex: /home/seth/Pictures/penguin.jpg . Can be found by typing "pwd" where you want to know the file path.
+
