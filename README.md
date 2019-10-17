@@ -25,3 +25,4 @@
 
 10. Using the tab key to complete file paths - this is a way to complete a file path without typing it out entirely. To use, start typing the file path, then press tab, and if you typed it correctly so far, it finishes it for you.
 
+11. Using up and down arrow for history - this is a way to access previous commands typed in a terminal using the up and down arrow keys. To use, press the up arrow key after previously entering in commands to navigate previous commands.  To go back, press the down arrow key to return to newer commands you typed.
