@@ -23,3 +23,5 @@
 
 9. file paths in linux - A file path is the human-readable representation of a file or folder’s location on a computer system. Ex: /home/seth/Pictures/penguin.jpg . Can be found by typing "pwd" where you want to know the file path.
 
+10. Using the tab key to complete file paths - this is a way to complete a file path without typing it out entirely. To use, start typing the file path, then press tab, and if you typed it correctly so far, it finishes it for you.
+
