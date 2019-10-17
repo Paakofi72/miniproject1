@@ -10,3 +10,6 @@
 2. mkdir - a Linux command that allows the user to create directories (also referred to as folders in some operating systems ). This command can create multiple directories at once as well as set the permissions for the directories. To use, type "mkdir (insert name of directory here)". 
 
 3. cp - a Linux command used to copy files or group of files or directory. It creates an exact image of a file on a disk with different file name. cp command requires at least two filenames in its arguments. To use, type "cp (file 1) (file 2)"
+
+4. pwd - a Linux command line utility for printing the current working directory. It will print the full system path of the current working directory to standard output. By default the pwd command ignores symlinks, although the full physical path of a current directory can be shown with an option. To use, type "pwd".
+
