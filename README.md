@@ -14,3 +14,6 @@
 4. pwd - a Linux command line utility for printing the current working directory. It will print the full system path of the current working directory to standard output. By default the pwd command ignores symlinks, although the full physical path of a current directory can be shown with an option. To use, type "pwd".
 
 5. mv - a Linux command line utility that moves files or directories from one place to another. It supports moving single files, multiple files and directories. It can prompt before overwriting and has an option to only move files that are new than the destination. To use, type "mv (old file) (new file)".
+
+6. rm - a Linux command that stands for remove here. rm command is used to remove objects such as files, directories, symbolic links and so on from the file system like UNIX. To use, type "rm (file)".
+
