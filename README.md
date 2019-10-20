@@ -32,3 +32,10 @@ References: Material from IT 340 as well as Google definitions (https://www.goog
 **Image:**
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# Kofi's Work(GitFlow/git terms)
+
+1. Repository is a place where all changes made to your files in a project is stored over time. It is a place where data and code is stored for projects.
+
+
+
