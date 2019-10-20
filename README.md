@@ -40,3 +40,19 @@ References: Material from IT 340 as well as Google definitions (https://www.goog
 2. Clone is a git command line which is used to clone or copy an existing repository. To use clone, you type $ git clone <url of the repository you cloned> + the place you want to clone it 
 
 3. Fork is a copy of a repositoy, it allows you to make changes to a project without affecting the original project. to use fork in github you go to the repository you want to fork and click the fork button in the top right side.
+
+4. Branch is a git command that lets you create a new branch or timeline of commits, changes and file additions that are complety your won. A branch represents a series of commits.  To use branch you type $ git branch-d 
+
+5. Commit is a git command used to save your changes to a local repository or to make changes to a repository. To use git commit, you type $ git commit -m  
+
+
+
+
+
+
+
+
+
+
+
+
