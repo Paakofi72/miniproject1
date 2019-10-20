@@ -38,3 +38,5 @@ References: Material from IT 340 as well as Google definitions (https://www.goog
 1. Repository is a place where all changes made to your files in a project is stored over time. It is a place where data and code is stored for projects.
 
 2. Clone is a git command line which is used to clone or copy an existing repository. To use clone, you type $ git clone <url of the repository you cloned> + the place you want to clone it 
+
+3. Fork is a copy of a repositoy, it allows you to make changes to a project without affecting the original project. to use fork in github you go to the repository you want to fork and click the fork button in the top right side.
