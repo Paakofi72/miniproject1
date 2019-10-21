@@ -59,7 +59,10 @@ References: Material from IT 340 as well as Google definitions (https://www.goog
  
 12. Master branch- is the default branch. The master branch is the original repository that is cloned or forked to create new branches. Master branch appers when making commits to a local repository. 
 
+# Git flow
+Git flow is a branching model for Git, it is best suited for projects that have a scheduled release cycle. Gitflow assigns specific roles to differetn branches and how to merge branches together. Gitflow makes collaborating on a project much easier and it allows to follow that others are doing in your project. 
 
+References: atlassian.com and google
 
 
 
