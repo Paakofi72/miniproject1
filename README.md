@@ -51,8 +51,6 @@ References: Material from IT 340 as well as Google definitions (https://www.goog
 
 8. Push is a git command that is used to upload local repository to a remote repository. Push command is how you transfer commits from your local repository to a remote repository. to use git push, you type $ git push origin master
 
-9. Pull is a git command that is used to get and download content from a remote repository then update the local repository to match the content
-
-
+9. Pull is a command that is used to get and download content from a remote repository. Then update the local repository to match the content. To use git pull, you type $ git pull origin master
 
 
