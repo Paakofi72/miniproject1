@@ -47,7 +47,7 @@ References: Material from IT 340 as well as Google definitions (https://www.goog
 
 6.Merge is a git command that allows you to take multiple different branches and integrate them together into a single branch. To use merge, you type $ git merge origin/master
 
-
+7. Checkout is a git command that lets you navigate between branches. Checkout makes sure the branch files is up to date with the version stored in a branch. to use checkout, you type $ git checkout-b
 
 
 
