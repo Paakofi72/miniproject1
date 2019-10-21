@@ -53,4 +53,13 @@ References: Material from IT 340 as well as Google definitions (https://www.goog
 
 9. Pull is a command that is used to get and download content from a remote repository. Then update the local repository to match the content. To use git pull, you type $ git pull origin master
 
+10. Remote Add/Remove/show this is a git commad on how to manage remote repositories. It lets you create, view and delete changes to alter a repository. to use remote, ypu type $ git remote add origin <link>
+
+
+
+
+
+
+
+
 
