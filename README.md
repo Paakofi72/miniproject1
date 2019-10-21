@@ -57,7 +57,7 @@ References: Material from IT 340 as well as Google definitions (https://www.goog
 
 11. Status  is a git command that displays the state of the working directory and the staging area. Git status lets you see what changes have occured and which files have been uploaded. $ git status
  
-
+12. Master branch- is the default branch. The master branch is the original repository that is cloned or forked to create new branches. Master branch appers when making commits to a local repository. 
 
 
 
